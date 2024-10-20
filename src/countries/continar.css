@@ -1,0 +1,15 @@
+.country-container{
+    
+   height: 50px;
+   margin: -80px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+
+
+/* .visited{
+    grid-template-columns: repeat(3fr,1fr);
+} */
+
+
